@@ -1,7 +1,7 @@
 ### This is repository for automatic UI tests using selenium
 
-    Scripts: bin/test_goeuro.com - this script is checking that sorting by price is correct
-    Usage: ./test_goeuro.com 
+    Scripts: bin/test_goeuro.py - this script is checking that sorting by price is correct
+    Usage: ./test_goeuro.py
 
     Test is using firefox driver. FLow is like this:
     -open browser
