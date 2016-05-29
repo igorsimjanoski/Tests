@@ -1,4 +1,8 @@
-# Tests
+### This is repository for automatic UI tests using selenium
+
+    Scripts: bin/test_goeuro.com - this script is checking that sorting by price is correct
+    Usage: ./test_goeuro.com 
+
     Test is using firefox driver. FLow is like this:
     -open browser
     -insert text into to/from fields
